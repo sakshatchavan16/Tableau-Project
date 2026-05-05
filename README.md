@@ -1,6 +1,3 @@
-# Tableau-Project
-Airlines &amp; Flight Performance Dashboard
-
 # ✈️ Airline $ Flights Performance Dashboard
 
 An interactive **Tableau dashboard** analyzing the flight performance, pricing trends, and revenue distribution across 6 major Indian airlines — built on a dataset of **5,000 flights**.
@@ -68,7 +65,7 @@ This project explores key metrics across Indian carriers including **Vistara, Ai
 📦 airline-flights-dashboard
  ┣ 📊 Airlines_Flights_Performance_Dashboard.twb   # Tableau workbook
  ┣ 🖼️ Airlines & Flights Performance Dashboard.png  # Dashboard preview                           
- ┣ 📄 Airlines & Flights Performance Dataset.png  # Raw dataset
+ ┣ 📄 Airlines & Flights Performance Dataset.xlsx  # Raw dataset
  ┗ 📝 README.md
 ```
 
@@ -81,15 +78,6 @@ This project explores key metrics across Indian carriers including **Vistara, Ai
 3. Use the filters on the right panel to explore different segments
 
 > Alternatively, view the live dashboard on **[Tableau Public](#)** *(replace with your link)*
-
----
-
-## 📬 Connect
-
-If you found this project interesting or have suggestions, feel free to connect:
-
-- 💼 [LinkedIn](#) *(replace with your profile link)*
-- 📧 [Email](#) *(optional)*
 
 ---
 
