@@ -1,7 +1,7 @@
 # Tableau-Project
 Airlines &amp; Flight Performance Dashboard
 
-# ✈️ Airline Flights Performance Dashboard
+# ✈️ Airline $ Flights Performance Dashboard
 
 An interactive **Tableau dashboard** analyzing the flight performance, pricing trends, and revenue distribution across 6 major Indian airlines — built on a dataset of **5,000 flights**.
 
