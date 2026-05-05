@@ -2,6 +2,7 @@
 
 An interactive **Tableau dashboard** analyzing the flight performance, pricing trends, and revenue distribution across 6 major Indian airlines — built on a dataset of **5,000 flights**.
 
+## 📸 Dashboard Screenshots
 ![Dashboard Preview](https://github.com/sakshatchavan16/Tableau-Project/blob/705e28889b3897557c3db4c3bb534109af66f78a/Airlines%20%26%20Flights%20Performance%20Dashboard.png)
 
 ---
